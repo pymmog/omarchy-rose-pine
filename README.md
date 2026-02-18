@@ -1,6 +1,6 @@
 # Omarchy Rosé Pine Theme
 
-A [Rosé Pine](https://rosepinetheme.com) color scheme for [Omarchy](https://omarchy.com), available in three variants:
+A [Rosé Pine](https://rosepinetheme.com) color scheme for [Omarchy](https://omarchy.org), available in three variants:
 
 | Variant     | Description                          |
 | ----------- | ------------------------------------ |
@@ -56,4 +56,4 @@ Each variant includes:
 ## Credits
 
 - [Rosé Pine](https://rosepinetheme.com) for the color palette
-- [Omarchy](https://omarchy.com) for the desktop environment
+- [Omarchy](https://omarchy.org) for the desktop environment
